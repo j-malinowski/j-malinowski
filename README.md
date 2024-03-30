@@ -2,9 +2,11 @@
 
 🙋‍♀️ Hello, my name is Jacob Malinowski and I'm a Computer Science student at University of Gdańsk. I'm personally familiar with *Git* version control system, but only recently have I started looking for internship (or maybe even job) so **as for now** this account is on "under the construction" phase. It is (going to be) my private profile for personal, mostly "solo" projects.
 
-👉 **I DO own a separate account for my university projects and works** which name is: [@at-eee](https://github.com/at-eee). Personally, I recommend checking out [#perm](https://github.com/at-eee/perm) - a group project made for one of the courses on my university - for that project, I made the repository, supervised project and prestented project for the most part and was accountable for the most of the *C* and *bash* code and *LaTeX* syntax/formatting. This project was made 1.5 years ago, from that time on, I have studied hard (on university and outside of it), wrote multitude of programs and worked hard on my skills, which in the result led to making my program writing and knowledge of *C* and *bash* (among other technologies and languages I learnt during that time!) much better and more proficient.
+👉 **I DO own a separate account for my university projects and works** which name is: [@at-eee](https://github.com/at-eee). Personally, I recommend checking out [#perm](https://github.com/at-eee/perm) - a group project made for one of the courses on my university - for that project, I made the repository, supervised for the most part and prestented the project as well as was accountable for the most of the *C* and *bash* code and *LaTeX* syntax formatting. This project was made 1.5 years ago, from that time on, I have been studying hard (on university and outside of it, of course), wrote multitude of programs and worked hard on my skills, which in the result led to making my program writing and knowledge of *C* and *bash* (among other technologies and languages I learnt during that time!) much better and more proficient.
 
-🌟 My Strong sides and (computer science) interests are: good *soft-skills*, knowledge of *math* and *low-level* programming languages (*C*, *Assembly*), optimization. I just really like minimalism from time to time ;).
+🌟 **My Strong sides and (computer science) interests** are: good *soft-skills*, knowledge of *math* and *low-level* programming languages (*C*, *Assembly*), optimization. I just really like minimalism from time to time ;).
+
+👩‍🎓🏆 **I'm a current scientific scholarship recipent for the best students** at *the University Of Gdańsk*.
 
 💻 I can also code in, and know the following technologies:
 + *Java*
@@ -31,7 +33,9 @@ Osobiście posiadam umiejętność posługiwania się systemem kontroli wersji *
 
 👉 **Posiadam jeszcze oddzielny profil uczelniany** (konto dla projektów uczelnianych) o nazwie: [@at-eee](https://github.com/at-eee), na którym można znaleźć pojedyncze z moich prac szczególnie zachęcam do obejrzenia [#perm](https://github.com/at-eee/perm) - projektu grupowego robionego na przedmiot o nazwie: *Środowisko Programistyczne* - dla którego założyłem repozytorium, byłem głównym nadzorującym i napisałem znaczną większość części kodu w *C*, *bash* oraz składni w *LaTeX*. Od tego projektu minęło 1,5 roku, od tego czasu cały czas się uczyłem (na uczelni oraz poza nią, rzecz jasna) oraz pisałem różnego rodzaju programy, w związku z czym: moja znajomość oraz umiejętności pisania w *C* i *bash* (ale też innych technologii i innych języków!) uległy znacznemu polepszeniu.
 
-🌟 Ogólnie moimi głównymi zainteresowaniami i mocnymi stronami są: *matematyka* i języki tzw. niskopoziomowe (*C*, *Assembly*), optymalizacja. Czasami po prostu lubię minimalizm ;).
+🌟 **Ogólnie moimi głównymi zainteresowaniami i mocnymi stronami są**: *matematyka* i języki tzw. niskopoziomowe (*C*, *Assembly*), optymalizacja. Czasami po prostu lubię minimalizm ;).
+
+👩‍🎓🏆 **Jestem obecnym stypendystą** stypendium rektora *Uniwersytetu Gdańskiego* (za wysokie wyniki w nauce).
 
 💻 Poza tym potrafię pisać w i posiadam znajomość:
 + *Java*
